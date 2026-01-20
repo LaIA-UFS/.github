@@ -14,7 +14,7 @@ A **LaIA** é uma liga acadêmica focada na elaboração de projetos e pesquisas
 
 ## 🔽 Participe
 
-Para se juntar à LaIA, fique atento à divulgação dos processos seletivos através do nosso instagram oficial: **@laia.ufs**
+Para se juntar à LaIA, fique atento à divulgação dos processos seletivos através do nosso instagram oficial: **[@laia.ufs](https://instagram.com/laia.ufs)**
 
 ##  Nossos Contatos
 
