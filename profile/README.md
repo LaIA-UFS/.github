@@ -1,10 +1,10 @@
-# LAIA - Liga Acadêmica de Inteligência Artificial ⚛️🤖
+# LaIA - Liga Acadêmica de Inteligência Artificial ⚛️🤖
 
 ![university](https://img.shields.io/badge/university-UFS-red) ![department](https://img.shields.io/badge/department-DCOMP-blue)
 
 ## 💙 Sobre a LaIA
 
-A **LaIA** é uma liga acadêmica focada na elaboração de projetos e pesquisas no campo da Inteligência Artificial, com o intuito de alavancar os estudos em IA dentro e fora do Departamento de Computação DCOMP-UFS, de onde somos vinculados academicamente. 🏢
+A **LaIA** é uma liga acadêmica focada na elaboração de projetos e pesquisas no campo da Inteligência Artificial, com o intuito de alavancar os estudos em IA dentro e fora do Departamento de Computação DCOMP-UFS, de onde somos vinculados academicamente.🏢
 
 ## 🔬 O que fazemos
 
